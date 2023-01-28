@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-JEWEEEEEEEEEEEEEEEESUS
+BEEEEEEEEEEEEEE
 
 
 public class sigmagir {

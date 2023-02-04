@@ -1,301 +1,301 @@
 proxies:
-  - {'name': '🇨🇳CN-183.223.139.192-2257', 'server': '2u3k01.abzoones.xyz', 'port': 36811, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2258', 'server': '3u1s01.abzoones.xyz', 'port': 36501, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2259', 'server': '3d6e01.abzoones.xyz', 'port': 36841, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2260', 'server': '5a4u01.abzoones.xyz', 'port': 36821, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-183.223.139.192-2261', 'server': '7i4n01.abzoones.xyz', 'port': 36831, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-183.223.139.192-2262', 'server': '8k2r01.abzoones.xyz', 'port': 36401, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-183.223.139.192-2264', 'server': '9s5g03.abzoones.xyz', 'port': 36211, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2265', 'server': '1j8p01.abzoones.xyz', 'port': 36211, 'type': 'trojan', 'password': 'de0561ab-db6c-4c63-af19-4883462f92b4', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2267', 'server': '1j8p01.abzoones.xyz', 'port': 36401, 'type': 'trojan', 'password': 'de0561ab-db6c-4c63-af19-4883462f92b4', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2268', 'server': '1j8p01.abzoones.xyz', 'port': 36831, 'type': 'trojan', 'password': 'de0561ab-db6c-4c63-af19-4883462f92b4', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2269', 'server': '1j8p01.abzoones.xyz', 'port': 36821, 'type': 'trojan', 'password': 'de0561ab-db6c-4c63-af19-4883462f92b4', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2270', 'server': '1j8p01.abzoones.xyz', 'port': 36841, 'type': 'trojan', 'password': 'de0561ab-db6c-4c63-af19-4883462f92b4', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2271', 'server': '1j8p01.abzoones.xyz', 'port': 36501, 'type': 'trojan', 'password': 'de0561ab-db6c-4c63-af19-4883462f92b4', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2272', 'server': '1j8p01.abzoones.xyz', 'port': 36811, 'type': 'trojan', 'password': 'de0561ab-db6c-4c63-af19-4883462f92b4', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2273', 'server': '9s5g01.abzoones.xyz', 'port': 36201, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-183.223.139.192-2274', 'server': '8t6w03.abzoones.xyz', 'port': 36311, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2275', 'server': '8t6w01.abzoones.xyz', 'port': 36301, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-183.223.139.192-2276', 'server': '8h2k03.abzoones.xyz', 'port': 36611, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-183.223.139.192-2277', 'server': '1j8p03.abzoones.xyz', 'port': 36111, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2278', 'server': '1j8p01.abzoones.xyz', 'port': 36701, 'type': 'trojan', 'password': '0184676a-8062-4462-85ab-78ede6d3dae9', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2301', 'server': '6w7j3p01.mcfront.xyz', 'port': 31111, 'type': 'trojan', 'password': '06d29997-d004-4338-a4e606d29997-d004-4338-a4e6-d1fb61b73c0b', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2306', 'server': '6w7j3p01.mcfront.xyz', 'port': 31811, 'type': 'trojan', 'password': 'bdebf62a-ac8a-42b0-9188-b4d8e00ea4c7', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2320', 'server': '8h2k01.abzoones.xyz', 'port': 36601, 'type': 'trojan', 'password': 'de0561ab-db6c-4c63-af19-4883462f92b4', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2358', 'server': '6w7j3p01.mcfront.xyz', 'port': 31601, 'type': 'trojan', 'password': 'bdebf62a-ac8a-42b0-9188-b4d8e00ea4c7', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2437', 'server': '1j8p01.abzoones.xyz', 'port': 36201, 'type': 'trojan', 'password': '88450ed5-58bf-4d03-bc988450ed5-58bf-4d03-bc90-08c1b37e602f', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2545', 'server': '6w7j3p01.mcfront.xyz', 'port': 31116, 'type': 'trojan', 'password': '27b5a4b4-a010-4577-94c4-77d630a319cf', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2703', 'server': '8h2k01.abzoones.xyz', 'port': 36601, 'type': 'trojan', 'password': '49680bd0-4964-4f5d-b08f-a980639ae6fc', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2733', 'server': '1j8p01.abzoones.xyz', 'port': 36701, 'type': 'trojan', 'password': '9a9ee810-4c23-4be6-8811-34fd1e128b0a', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-2895', 'server': '6w7j3p01.mcfront.xyz', 'port': 31116, 'type': 'trojan', 'password': '7b6991cf-2d91-4e2d-a59a-148b52edec75', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.157.35-2966', 'server': 'jp2.91js.pw', 'port': 10051, 'type': 'trojan', 'password': 'a13820c547fa34c5c45515c12f0cd576', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-103.45.78.156-2967', 'server': 'zz6.91js.pw', 'port': 10051, 'type': 'trojan', 'password': 'a13820c547fa34c5c45515c12f0cd576', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-183.223.139.192-2984', 'server': '8t6w03.abzoones.xyz', 'port': 36311, 'type': 'trojan', 'password': '33e7b9c8-db39-4cc3-81bb-57db9d53648a', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3063', 'server': '3a4u0k01.mcfront.xyz', 'port': 31811, 'type': 'trojan', 'password': '4effe03b-f2d6-4f1f-b371-eba1054bb249', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3138', 'server': '1j8p01.abzoones.xyz', 'port': 36821, 'type': 'trojan', 'password': '21d4fc5c-7e72-4d6e-a7d6-7e655b22ed9e', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3223', 'server': '8h2k01.abzoones.xyz', 'port': 36601, 'type': 'trojan', 'password': '21d4fc5c-7e72-4d6e-a7d6-7e655b22ed9e', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-117.174.51.134-3239', 'server': 'js04.balala2016.xyz', 'port': 20261, 'type': 'trojan', 'password': 'ED177480-E516-11EA-8B44-BBC4E882BA0B', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3252', 'server': '5m4h0k01.mcfront.xyz', 'port': 31701, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3253', 'server': '5m4h0k01.mcfront.xyz', 'port': 31501, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3254', 'server': '5m4h0k01.mcfront.xyz', 'port': 31801, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3255', 'server': '5m4h0k01.mcfront.xyz', 'port': 31401, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3256', 'server': '5m4h0k01.mcfront.xyz', 'port': 31211, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3257', 'server': '5m4h0k01.mcfront.xyz', 'port': 31206, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3258', 'server': '5m4h0k01.mcfront.xyz', 'port': 31201, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3259', 'server': '5m4h0k01.mcfront.xyz', 'port': 31311, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3260', 'server': '5m4h0k01.mcfront.xyz', 'port': 31306, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3261', 'server': '5m4h0k01.mcfront.xyz', 'port': 31301, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3262', 'server': '5m4h0k01.mcfront.xyz', 'port': 31111, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3263', 'server': '5m4h0k01.mcfront.xyz', 'port': 31106, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3264', 'server': '5m4h0k01.mcfront.xyz', 'port': 31116, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3265', 'server': '5m4h0k01.mcfront.xyz', 'port': 31611, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3266', 'server': '5m4h0k01.mcfront.xyz', 'port': 31606, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-183.223.139.192-3337', 'server': '8k2r01.abzoones.xyz', 'port': 36401, 'type': 'trojan', 'password': '9215d689-a562-43e4-b6ae-7b0d08026794', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3381', 'server': '5m4h0k01.mcfront.xyz', 'port': 31841, 'type': 'trojan', 'password': 'efd492dc-08d9-4acf-8164-fbe2647f3419', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3383', 'server': '5m4h0k01.mcfront.xyz', 'port': 31811, 'type': 'trojan', 'password': 'efd492dc-08d9-4acf-8164-fbefd492dc-08d9-4acf-8164-fbe2647f3419', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3384', 'server': '5m4h0k01.mcfront.xyz', 'port': 31821, 'type': 'trojan', 'password': 'efd492dc-08d9-4acf-8164-fbe2647f3419', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3386', 'server': '5m4h0k01.mcfront.xyz', 'port': 31831, 'type': 'trojan', 'password': 'efd492dc-08d9-4acf-8164-fbe2647f3419', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.167.41.76-3452', 'server': 'jp08a.roc-taiwan.org.ua', 'port': 65018, 'type': 'trojan', 'password': '96983eb4-c8f1-316e-ab00-500014ed3d8b', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-116.192.160.86-3454', 'server': 'official.taipeicitygovernment.if.ua', 'port': 8443, 'type': 'trojan', 'password': '96983eb4-c8f1-316e-ab00-500014ed3d8b', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3529', 'server': '5m4h0k01.mcfront.xyz', 'port': 31811, 'type': 'trojan', 'password': '181367b4-8254-181367b4-8254-4723-b665-92f317910536', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3619', 'server': '5m4h0k01.mcfront.xyz', 'port': 31601, 'type': 'trojan', 'password': '181367b4-8254-4723-b665-92f317910536', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3844', 'server': '5c1a01.abzoones.xyz', 'port': 36701, 'type': 'trojan', 'password': 'e2139bcf-e7bd-4567-9130-0d3b164bd8fa', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-183.223.139.192-3914', 'server': '2u3k01.abzoones.xyz', 'port': 36811, 'type': 'trojan', 'password': 'e2139bcf-e7bd-4567-9130-0d3b164bd8fa', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-3983', 'server': '3u1s01.abzoones.xyz', 'port': 36501, 'type': 'trojan', 'password': 'e2139bcf-e7bd-4567-9130-0d3b164bd8fa', 'skip-cert-verify': False}
-  - {'name': '🇨🇳CN-223.111.129.28-4113', 'server': '5m4h0k01.mcfront.xyz', 'port': 31831, 'type': 'trojan', 'password': '41f0a7ce-f6c2-4f2c-b3a9-13bd68538eb6', 'skip-cert-verify': False}
-  - {'name': '🇨🇿CZ-92.118.149.85-4322', 'server': 'v2cross.com.02.v2ce.com', 'port': 443, 'type': 'trojan', 'password': '3gLlCYBipVwr6Y5F', 'skip-cert-verify': False}
-  - {'name': '🇨🇿CZ-92.118.149.84-4323', 'server': 'v2cross.com.01.v2ce.com', 'port': 443, 'type': 'trojan', 'password': 'mMQ6qJB9xbhiRvgg', 'skip-cert-verify': False}
-  - {'name': '🇨🇿CZ-185.32.183.15-4324', 'server': 'cz.v212.fun', 'port': 443, 'type': 'trojan', 'password': '9c7a49a2-ddff-4654-925b-baa7913dbc56', 'skip-cert-verify': False}
-  - {'name': '🇫🇷FR-54.37.18.204-4325', 'server': 'ukt-2.opensvr.net', 'port': 443, 'type': 'trojan', 'password': 'opentunnel.net-rw8uuv207taq', 'skip-cert-verify': False}
-  - {'name': '🇫🇷FR-195.154.118.180-4326', 'server': 'fr-trojan.bonds.id', 'port': 443, 'type': 'trojan', 'password': 'e4307a50-9853-11ec-9b4b-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇬🇧GB-132.145.51.172-4328', 'server': 'jgwld1.gaox.ml', 'port': 443, 'type': 'trojan', 'password': '02e653c9-7c93-46a9-999d-11834bd0c577', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-104.208.107.215-4329', 'server': 'sg.liangyuandian.top', 'port': 443, 'type': 'trojan', 'password': '51c44c4e-f8c2-4419-a52b-b4b7bd915078', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.205.6.49-4330', 'server': 'sg02.awcloud.top', 'port': 443, 'type': 'trojan', 'password': '7f9ef59e-20fb-4343-bafc-3a84fa22fe70', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-23.100.94.53-4331', 'server': 'jp01.awcloud.top', 'port': 443, 'type': 'trojan', 'password': 'ed6546d9-4aea-4aa9-a335-24e3e7427c01', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.205.6.49-4332', 'server': 'sg01.awcloud.top', 'port': 443, 'type': 'trojan', 'password': 'ed6546d9-4aea-4aa9-a335-24e3e7427c01', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.187.165.75-4334', 'server': 'vn.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': '459d23f4-dcfd-4fef-9ba3-ef0ad10fc336', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.187.165.75-4335', 'server': 'usla.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': '459d23f4-dcfd-4fef-9ba3-ef0ad10fc336', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-103.103.245.125-4336', 'server': '103.103.245.125', 'port': 50350, 'type': 'trojan', 'password': '006bca8c-4e1f-44e0-9399-1cd4ff480a40', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-103.103.245.125-4338', 'server': '103.103.245.125', 'port': 50206, 'type': 'trojan', 'password': '789d73af-b985-4778-9872-211047c28015', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.205.6.49-4339', 'server': 'uk01.awcloud.top', 'port': 443, 'type': 'trojan', 'password': '7f9ef59e-20fb-4343-bafc-3a84fa22fe70', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-23.100.94.53-4340', 'server': 'de01.awcloud.top', 'port': 443, 'type': 'trojan', 'password': '7f9ef59e-20fb-4343-bafc-3a84fa22fe70', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.205.6.49-4341', 'server': 'hk05.trojanyyds.xyz', 'port': 443, 'type': 'trojan', 'password': 'cd41b9d7-df15-46ad-a778-257b0851525a', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-104.208.107.84-4342', 'server': 'de.stablize.top', 'port': 443, 'type': 'trojan', 'password': '1bf16b43-0ad5-4512-a0e8-34bb8966278e', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-104.208.107.84-4343', 'server': 'ap.stablize.top', 'port': 443, 'type': 'trojan', 'password': '1bf16b43-0ad5-4512-a0e8-34bb8966278e', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-3.113.6.77-4344', 'server': '2d1t5w06.mcfront.xyz', 'port': 31311, 'type': 'trojan', 'password': 'bc58f81b-3f93-400c-aa88-893f5f52c29a', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-153.125.148.41-4346', 'server': 'trs12.bolab.net', 'port': 22, 'type': 'trojan', 'password': '40c89b10235c40321e7a3cef82b53a03', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-153.127.215.49-4347', 'server': 'trs16.bolab.net', 'port': 22, 'type': 'trojan', 'password': '40c89b10235c40321e7a3cef82b53a03', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-168.138.43.89-4348', 'server': 'jgwdb4.gaox.ml', 'port': 443, 'type': 'trojan', 'password': '-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26', 'skip-cert-verify': False}
-  - {'name': '🇰🇷KR-146.56.176.239-4349', 'server': 'kr1.api-aws.com', 'port': 443, 'type': 'trojan', 'password': '21f204d3-b42e-466a-9cb2-b83d868dcd5f', 'skip-cert-verify': False}
-  - {'name': '🇰🇷KR-146.56.176.239-4351', 'server': 'kr1.api-aws.com', 'port': 443, 'type': 'trojan', 'password': '1988268c-a841-42f2-acac-7a8c0c7e78e5', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-3.113.6.77-4354', 'server': '2d1t5w06.mcfront.xyz', 'port': 31311, 'type': 'trojan', 'password': '06898f03-c1d6-40cb-ab76-8f110f5ca0e3', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-45.66.134.219-4355', 'server': '45.66.134.219', 'port': 443, 'type': 'trojan', 'password': '28d98f761aca9d636f44db62544628eb', 'skip-cert-verify': False}
-  - {'name': '🇰🇷KR-146.56.189.146-4362', 'server': 'jgw2.gaox.ml', 'port': 443, 'type': 'trojan', 'password': 'f2117e99-9b6e-47fd-b0a9-634a0b15b998', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-104.208.107.215-4367', 'server': 'usa.liangyuandian.top', 'port': 443, 'type': 'trojan', 'password': '53f20cd4-b381-4a80-8059-7bcd484bbb52', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-3.113.6.77-4372', 'server': '2d1t5w06.mcfront.xyz', 'port': 31311, 'type': 'trojan', 'password': 'bdebf62a-ac8a-42b0-9188-b4d8e00ea4c7', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-104.208.107.215-4373', 'server': 'sg.stablize.top', 'port': 443, 'type': 'trojan', 'password': '7d0f1f83-0f2f-4b90-930e-de44ac233fef', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-104.208.107.84-4375', 'server': 'usa.stablize.top', 'port': 443, 'type': 'trojan', 'password': '7d0f1f83-0f2f-4b90-930e-de44ac233fef', 'skip-cert-verify': False}
-  - {'name': '🇰🇷KR-146.56.176.239-4383', 'server': 'kr1.api-aws.com', 'port': 443, 'type': 'trojan', 'password': '98a68cfb-42c6-4498-ac6e-7e5c203924a7', 'skip-cert-verify': False}
-  - {'name': '🇰🇷KR-146.56.176.239-4392', 'server': 'kr1.api-aws.com', 'port': 443, 'type': 'trojan', 'password': 'aa7d24e0-b60c-44bb-bcd1-8b74a297cdbc', 'skip-cert-verify': False}
-  - {'name': '🇰🇷KR-146.56.176.239-4419', 'server': 'kr1.api-aws.com', 'port': 443, 'type': 'trojan', 'password': 'dc26913c-a31c-4b3f-9c03-28a6b4283a89', 'skip-cert-verify': False}
-  - {'name': '🇰🇷KR-140.238.12.83-4431', 'server': 'jgw3.gaox.ml', 'port': 443, 'type': 'trojan', 'password': 'a1718180-d616-4b71-9bb6-3e96ba20f921', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-67.21.93.237-4432', 'server': 'upay.com', 'port': 443, 'type': 'trojan', 'password': '-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26', 'skip-cert-verify': False}
-  - {'name': '🇳🇱NL-163.172.211.74-4433', 'server': 'nl-trojan.bonds.id', 'port': 443, 'type': 'trojan', 'password': '94af0550-902b-11eb-b135-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇳🇱NL-195.123.220.91-4435', 'server': 'nlt-1.opensvr.net', 'port': 443, 'type': 'trojan', 'password': 'opentunnel.net-oqtxymz6gjl3', 'skip-cert-verify': False}
-  - {'name': '🇳🇱NL-163.172.211.74-4438', 'server': 'nl-trojan.bonds.id', 'port': 443, 'type': 'trojan', 'password': '2b921790-2a60-11ed-a3e2-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇦🇶NOWHERE-0.0.0.0-4442', 'server': '194.156.99.39', 'port': 443, 'type': 'trojan', 'password': 'xxoo', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-159.223.66.219-4443', 'server': 'trojan1.udpgw.com', 'port': 443, 'type': 'trojan', 'password': 'affae2e0-e84b-11ec-b09f-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-104.208.107.215-4446', 'server': 'jp.liangyuandian.top', 'port': 443, 'type': 'trojan', 'password': '18304160-03d4-4c55-95c1-586c0a5f3a0a', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-103.253.24.212-4447', 'server': 'sg1-trojan.bonds.id', 'port': 443, 'type': 'trojan', 'password': '71086710-33eb-11ed-adce-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-18.141.8.87-4448', 'server': '18.141.8.87', 'port': 443, 'type': 'trojan', 'password': 'iyinglong', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-54.179.182.190-4449', 'server': '54.179.182.190', 'port': 443, 'type': 'trojan', 'password': 'iyinglong', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-18.140.67.76-4450', 'server': '18.140.67.76', 'port': 443, 'type': 'trojan', 'password': 'iyinglong', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-149.28.131.42-4452', 'server': 'sgt-1.opensvr.net', 'port': 443, 'type': 'trojan', 'password': 'opentunnel.net-1l1tdr1hmcq7g32ndx7g', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-8.7.198.46-4453', 'server': 'ap.liangyuandian.top', 'port': 443, 'type': 'trojan', 'password': '51c44c4e-f8c2-4419-a52b-b4b7bd915078', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-103.253.24.77-4454', 'server': 'sg6-trojan.bonds.id', 'port': 443, 'type': 'trojan', 'password': '81e9f5f0-1c92-11ed-8d18-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-103.253.24.248-4455', 'server': 'sg2-trojan.bonds.id', 'port': 443, 'type': 'trojan', 'password': 'f1a23bf0-1c92-11ed-b6d8-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-104.208.107.84-4457', 'server': 'uk.liangyuandian.top', 'port': 443, 'type': 'trojan', 'password': 'ceaea123-1b4b-469b-8358-bcd5f5529305', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-172.104.177.105-4458', 'server': 'w12.udpgw.com', 'port': 443, 'type': 'trojan', 'password': '08964210-e7b8-11ec-95aa-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-172.105.120.73-4459', 'server': 'w11.udpgw.com', 'port': 443, 'type': 'trojan', 'password': 'f64e69c0-e7b7-11ec-ab81-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-8.210.202.250-4460', 'server': '73hk02.ok365.cyou', 'port': 443, 'type': 'trojan', 'password': '6f42acc5-995e-4060-9292-f7cc7641a830', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-172.105.127.58-4461', 'server': 'sg1.nodegz.top', 'port': 443, 'type': 'trojan', 'password': '97528522-6883-3f98-9f66-b6e134dfcd64', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-103.253.24.216-4462', 'server': 'sg3-trojan.bonds.id', 'port': 443, 'type': 'trojan', 'password': '97fdf760-7bbf-11eb-8e14-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇹🇼TW-2.58.242.43-4470', 'server': '2.58.242.43', 'port': 443, 'type': 'trojan', 'password': 'YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT', 'skip-cert-verify': False}
-  - {'name': '🇹🇼TW-114.37.215.68-4471', 'server': 'tw-oo-01.click', 'port': 443, 'type': 'trojan', 'password': 's6rIg1Mkke73fwZU', 'skip-cert-verify': False}
-  - {'name': '🇹🇼TW-114.41.43.168-4472', 'server': 'mv-tw05.link', 'port': 443, 'type': 'trojan', 'password': 's6rIg1Mkke73fwZU', 'skip-cert-verify': False}
-  - {'name': '🇹🇼TW-114.37.199.137-4474', 'server': 'tw01.balala2016.xyz', 'port': 20261, 'type': 'trojan', 'password': 'ED177480-E516-11EA-8B44-BBC4E882BA0B', 'skip-cert-verify': False}
-  - {'name': '🇨🇿CZ-185.253.46.105-4476', 'server': 'ce.rutracker-cn.com', 'port': 443, 'type': 'trojan', 'password': '5y8y3CwxRVYhyfSY', 'skip-cert-verify': False}
-  - {'name': '🇨🇿CZ-185.253.46.40-4477', 'server': 'v2cross.com.04.v2ce.com', 'port': 443, 'type': 'trojan', 'password': 'vGWCNNfBHwSY6m6M', 'skip-cert-verify': False}
-  - {'name': '🇨🇿CZ-185.253.46.69-4478', 'server': 'cz5.v2ce.com', 'port': 443, 'type': 'trojan', 'password': 'HTrovQkamDxNfaD5', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.187.71.192-4479', 'server': 'jp.stablize.top', 'port': 443, 'type': 'trojan', 'password': '8fb84310-7f34-4e8e-baa8-83001844cc27', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.239.174.254-4482', 'server': 'li1faiubsvdnasjp2.559xp5.cn', 'port': 443, 'type': 'trojan', 'password': 'dbc97910-5265-488e-b2e5-62e533f97326', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-104.208.107.84-4483', 'server': 'in.stablize.top', 'port': 443, 'type': 'trojan', 'password': '7d0f1f83-0f2f-4b90-930e-de44ac233fef', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.239.174.254-4484', 'server': 'nsaghhfhitw.559xp5.cn', 'port': 443, 'type': 'trojan', 'password': 'f3389204-7adb-45d8-906c-c17792336574', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-20.197.88.43-4485', 'server': 'hinet.mjt001.com', 'port': 443, 'type': 'trojan', 'password': '38a5fd20-ce5c-4342-9c86-c331602ccb39', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.187.71.192-4487', 'server': 'uk.stablize.top', 'port': 443, 'type': 'trojan', 'password': '1bf16b43-0ad5-4512-a0e8-34bb8966278e', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-155.94.134.152-4488', 'server': '56789.gq', 'port': 443, 'type': 'trojan', 'password': 'dc1453e4-e5c4-4b30-bee3-6ed2adce9ee3', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.187.165.75-4490', 'server': 'lux.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': '459d23f4-dcfd-4fef-9ba3-ef0ad10fc336', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-167.88.61.2-4491', 'server': '167.88.61.2', 'port': 443, 'type': 'trojan', 'password': 'Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-38.48.123.89-4492', 'server': 'ukt-1.opensvr.net', 'port': 443, 'type': 'trojan', 'password': 'opentunnel.net-zdrgvbhjnmhgfx', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-20.197.88.43-4493', 'server': 'de.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': '459d23f4-dcfd-4fef-9ba3-ef0ad10fc336', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.2.67.215-4494', 'server': 'kh.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': '459d23f4-dcfd-4fef-9ba3-ef0ad10fc336', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-20.197.88.43-4495', 'server': 'kr.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': '459d23f4-dcfd-4fef-9ba3-ef0ad10fc336', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-20.212.208.234-4497', 'server': 'jp.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': '459d23f4-dcfd-4fef-9ba3-ef0ad10fc336', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.2.67.215-4498', 'server': 'hkt.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': '459d23f4-dcfd-4fef-9ba3-ef0ad10fc336', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.187.165.75-4499', 'server': 'sg.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': '459d23f4-dcfd-4fef-9ba3-ef0ad10fc336', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.2.67.215-4509', 'server': 'hkt.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': '36d9d131-6319-4758-b4ce-3011f0afc72a', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-91.90.195.47-4510', 'server': 'cd.rutracker-cn.com', 'port': 443, 'type': 'trojan', 'password': 'ukMzuFSmIXDvgW0h', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-40.81.27.180-4513', 'server': 'us01.awcloud.top', 'port': 443, 'type': 'trojan', 'password': '7f9ef59e-20fb-4343-bafc-3a84fa22fe70', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-23.100.94.53-4514', 'server': 'ru01.awcloud.top', 'port': 443, 'type': 'trojan', 'password': '7f9ef59e-20fb-4343-bafc-3a84fa22fe70', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.205.97.106-4518', 'server': 'sg.liangyuandian.top', 'port': 443, 'type': 'trojan', 'password': 'cc55e294-b76f-425a-9301-c18afbecaa22', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-20.205.159.62-4520', 'server': 'jp.liangyuandian.top', 'port': 443, 'type': 'trojan', 'password': '51c44c4e-f8c2-4419-a52b-b4b7bd915078', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.187.71.192-4524', 'server': 'ca.liangyuandian.top', 'port': 443, 'type': 'trojan', 'password': 'b7bc6b1c-610d-4d39-ad29-18a0d6902348', 'skip-cert-verify': False}
-  - {'name': '🇰🇷KR-138.2.115.240-4530', 'server': 'kr05.wangxd.life', 'port': 443, 'type': 'trojan', 'password': '3a2c0c6c-9ee5-c05f-c951-fcd73831983e', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-20.212.208.234-4531', 'server': 'ussj.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': 'e785e5d2-a05e-486c-8b4f-78b205382b4e', 'skip-cert-verify': False}
-  - {'name': '🇰🇷KR-152.70.251.160-4533', 'server': 'jgw4.gaox.ml', 'port': 443, 'type': 'trojan', 'password': 'b7e0e71f-070c-437a-9826-6e23caeb0307', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-20.194.223.153-4534', 'server': 'ca.stablize.top', 'port': 443, 'type': 'trojan', 'password': '1bf16b43-0ad5-4512-a0e8-34bb8966278e', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-129.150.59.176-4535', 'server': 'www.anloao.cf', 'port': 9053, 'type': 'trojan', 'password': 'b64b0f9c-23df-3112-a790-d8aa068aa2fe', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-51.81.82.15-4536', 'server': 'us-trojan.bonds.id', 'port': 443, 'type': 'trojan', 'password': 'ccf1ee40-b4ab-11eb-b421-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-185.212.56.168-4537', 'server': 'tw.softbank.mjj-home.com', 'port': 443, 'type': 'trojan', 'password': 'share.mjj-home.com', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-209.141.47.137-4538', 'server': '209.141.47.137', 'port': 443, 'type': 'trojan', 'password': '03f9d1c7-40f9-475c-bf46-e3883ee7da5f', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-184.168.127.50-4540', 'server': '184.168.127.50', 'port': 443, 'type': 'trojan', 'password': 'a3fa58b581353bb375d2ddad0f327938', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-184.168.127.50-4543', 'server': '184.168.127.50', 'port': 443, 'type': 'trojan', 'password': '28d98f761aca9d636f44db62544628eb', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-185.212.56.168-4544', 'server': 'share.softbank.mjj-home.com', 'port': 443, 'type': 'trojan', 'password': 'share.mjj-home.com', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-54.67.99.40-4545', 'server': 't03.ssrsub.com.xyz', 'port': 443, 'type': 'trojan', 'password': '640e3ef0-9c44-49a8-98f6-0895b11eecd6', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-154.17.23.245-4546', 'server': 'listener.freetrade.link', 'port': 443, 'type': 'trojan', 'password': 'Z9TS0AeB8S5ZlpFNRea3aypDaXISOyzY67xCO33lF4gKq38jw2uDEnDYRCCxAc', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-20.194.223.153-4549', 'server': 'de.liangyuandian.top', 'port': 443, 'type': 'trojan', 'password': '176196e4-7cf7-4561-87a9-21a1b4e344be', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.187.165.75-4551', 'server': 'hgc.iamnotagoodman.com', 'port': 443, 'type': 'trojan', 'password': '2ac7fc8a-68b5-4809-8bd2-73a593bae292', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-159.223.89.239-4552', 'server': 'sg-01.tiktokcdn.top', 'port': 443, 'type': 'trojan', 'password': 'bb5b1337-fa9e-4e00-b8c6-1110e626171d', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-154.17.25.228-4556', 'server': 'permissions.freetrade.link', 'port': 443, 'type': 'trojan', 'password': 'lCYI0KOB8exTgp736ac3ZR3DnXwaOFS5pACRuZzSyeYy4N3j2D8qAxF9alDSEC', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-20.205.6.49-4557', 'server': 'hk03.trojanyyds.xyz', 'port': 443, 'type': 'trojan', 'password': '3e9d239a-9d5f-4446-8b02-a6027a9da48a', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-24.199.70.112-4558', 'server': 'sfo.iqmtp.live', 'port': 443, 'type': 'trojan', 'password': '3628ca8d-6371-45df-879c-2d3e5d110b51', 'skip-cert-verify': False}
-  - {'name': '🇳🇱NL-161.35.247.35-4559', 'server': 'ams.iqmtp.live', 'port': 443, 'type': 'trojan', 'password': '3628ca8d-6371-45df-879c-2d3e5d110b51', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-47.242.63.176-4565', 'server': '805hk.ok365.cyou', 'port': 443, 'type': 'trojan', 'password': '91ef9bbb-25d9-4593-9f9e-d17e713f5aad', 'skip-cert-verify': False}
-  - {'name': '🇰🇷KR-138.2.113.248-4566', 'server': 'jgwcc2.gaox.ml', 'port': 443, 'type': 'trojan', 'password': '9c822f05-cfdc-479a-9534-60f3d4127435', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-13.250.63.205-4569', 'server': 'singapore.anthoncloud.com', 'port': 3306, 'type': 'trojan', 'password': '6589ce99-9ff7-3c1b-a744-ca3f4abfe386', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-154.3.32.164-4570', 'server': 'sky998dmit3.xyz', 'port': 443, 'type': 'trojan', 'password': 'RRy34GGwsPt47SuC', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-45.88.148.234-4572', 'server': '45.88.148.234', 'port': 28443, 'type': 'trojan', 'password': '7f38669a-90f2-481f-8591-8a09c5108959', 'skip-cert-verify': False}
-  - {'name': '🇻🇳VN-103.81.85.238-4575', 'server': '103.81.85.238', 'port': 443, 'type': 'trojan', 'password': '5623be5f-c9da-4511-81a9-b4b39b16edae', 'skip-cert-verify': False}
-  - {'name': '🇻🇳VN-103.195.236.24-4576', 'server': '103.195.236.24', 'port': 443, 'type': 'trojan', 'password': '5623be5f-c9da-4511-81a9-b4b39b16edae', 'skip-cert-verify': False}
-  - {'name': '🇻🇳VN-103.173.255.234-4577', 'server': '103.173.255.234', 'port': 443, 'type': 'trojan', 'password': '5623be5f-c9da-4511-81a9-b4b39b16edae', 'skip-cert-verify': False}
-  - {'name': '🇻🇳VN-103.173.255.127-4578', 'server': '103.173.255.127', 'port': 443, 'type': 'trojan', 'password': '5623be5f-c9da-4511-81a9-b4b39b16edae', 'skip-cert-verify': False}
-  - {'name': '🇮🇩ID-103.180.125.252-4579', 'server': 'idtj-ikd.bonds.id', 'port': 443, 'type': 'trojan', 'password': 'e7a0db30-2d2f-11ed-81cc-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-5.44.249.43-4580', 'server': '5.44.249.43', 'port': 3389, 'type': 'trojan', 'password': '6f0a9d0fa39d65fa', 'skip-cert-verify': False}
-  - {'name': '🇸🇬SG-5.44.249.43-4582', 'server': '5.44.249.43', 'port': 3389, 'type': 'trojan', 'password': 'cd39f62aed7b90f6', 'skip-cert-verify': False}
-  - {'name': '🇮🇩ID-103.180.125.252-4585', 'server': 'idtj-ikd.bonds.id', 'port': 443, 'type': 'trojan', 'password': '21887810-2e7d-11ed-918b-1239d0255272', 'skip-cert-verify': False}
-  - {'name': '🇻🇳VN-103.173.255.21-4586', 'server': '103.173.255.21', 'port': 443, 'type': 'trojan', 'password': '5623be5f-c9da-4511-81a9-b4b39b16edae', 'skip-cert-verify': False}
-  - {'name': '🇯🇵JP-139.162.117.173-4587', 'server': '139.162.117.173', 'port': 443, 'type': 'vmess', 'uuid': '927094d3-d678-4763-8591-e240d0bcae87', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/chat'}}
-  - {'name': '🇯🇵JP-168.138.44.176-4588', 'server': '168.138.44.176', 'port': 443, 'type': 'trojan', 'password': '8d2d5953-d649-4034-94f2-72f2df2623da', 'skip-cert-verify': False}
-  - {'name': '🇰🇷KR-138.2.113.248-4589', 'server': '138.2.113.248', 'port': 443, 'type': 'trojan', 'password': '9c822f05-cfdc-479a-9534-60f3d4127435', 'skip-cert-verify': False}
-  - {'name': '🇲🇴MO-45.64.22.55-4590', 'server': '45.64.22.55', 'port': 443, 'type': 'trojan', 'password': 'F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0', 'sni': 'stutter.freetrade.link', 'skip-cert-verify': False}
-  - {'name': '🇭🇰HK-104.208.96.44-4591', 'server': '104.208.96.44', 'port': 80, 'type': 'vmess', 'uuid': '80e94af6-e42a-4dbc-8f4b-c5f99bf97d3d', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/zh-cn/download'}}
-  - {'name': '🇭🇰HK-16.162.62.240-4592', 'server': 'hk80.sanfen001.pics', 'port': 80, 'type': 'vmess', 'uuid': '80e94af6-e42a-4dbc-8f4b-c5f99bf97d3d', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/zh-cn/download', 'headers': {'Host': 'hk80.sanfen001.pics'}}}
-  - {'name': '🇺🇸US-128.14.162.48-4593', 'server': '128.14.162.48', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'clash6.ssr-free.xyz'}}}
-  - {'name': '🏁RELAY-104.21.94.253-4594', 'server': '34.72img.xyz', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '34.72img.xyz'}}}
-  - {'name': '🏁RELAY-172.66.40.10-4595', 'server': '172.66.40.10', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '38.72img.xyz'}}}
-  - {'name': '🏁RELAY-141.101.114.100-4596', 'server': '141.101.114.100', 'port': 443, 'type': 'vmess', 'uuid': '267a9f38-40d8-4ed6-ab58-cafc67e9c933', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/VHONOFZ3', 'headers': {'Host': 'lg1.cfcdn2.xyz'}}}
-  - {'name': '🏁RELAY-141.101.114.120-4598', 'server': '141.101.114.120', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'clash6.ssr-free.xyz'}}}
-  - {'name': '🏁RELAY-172.64.153.155-4599', 'server': '172.64.153.155', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com'}}
-  - {'name': '🏁RELAY-198.41.203.5-4601', 'server': '198.41.203.5', 'port': 443, 'type': 'vmess', 'uuid': '91646f9a-b4e9-4aca-bfe3-8892b3e58fe7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'lg30.cfcdn3.xyz'}}}
-  - {'name': '🏁RELAY-172.66.43.1-4602', 'server': '172.66.43.1', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '38.72img.xyz'}}}
-  - {'name': '🏁RELAY-198.41.203.6-4603', 'server': '198.41.203.6', 'port': 443, 'type': 'vmess', 'uuid': 'f33957e8-372e-4fba-99ed-f4db32cce9e5', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'fr2.cfcdn4.xyz'}}}
-  - {'name': '🏁RELAY-198.41.203.3-4604', 'server': '198.41.203.3', 'port': 443, 'type': 'vmess', 'uuid': '33aa57df-1c93-4318-9fce-e850437ee781', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com'}}
-  - {'name': '🇰🇷KR-152.70.250.4-4605', 'server': '1.1808.cf', 'port': 443, 'type': 'vmess', 'uuid': 'ffffffff-ffff-ffff-ffff-ffffffffffff', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/vmess', 'headers': {'Host': 'v2.chigua.tk'}}}
-  - {'name': '🇬🇧GB-85.239.60.46-4608', 'server': 'uk.xlkjjs.top', 'port': 443, 'type': 'vmess', 'uuid': '6ea22ab5-2923-3feb-827c-79e4b8cd3f38', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 'uk.xlkjjs.top'}}}
-  - {'name': '🇺🇸US-129.146.135.157-4610', 'server': '129.146.135.157', 'port': 443, 'type': 'trojan', 'password': 'e23f408a-012e-4030-8b31-02022031cb50', 'skip-cert-verify': False}
-  - {'name': '🏁RELAY-104.21.94.253-4611', 'server': '36.72img.xyz', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '36.72img.xyz'}}}
-  - {'name': '🏁RELAY-172.64.152.150-4612', 'server': '172.64.152.150', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'clash6.ssr-free.xyz'}}}
-  - {'name': '🏁RELAY-141.101.115.121-4613', 'server': '141.101.115.121', 'port': 443, 'type': 'vmess', 'uuid': '91646f9a-b4e9-4aca-bfe3-8892b3e58fe7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'lg30.cfcdn3.xyz'}}}
-  - {'name': '🇰🇷KR-146.56.162.25-4614', 'server': '146.56.162.25', 'port': 443, 'type': 'vmess', 'uuid': '91646f9a-b4e9-4aca-bfe3-8892b3e58fe7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'lg30.cfcdn3.xyz'}}}
-  - {'name': '🇮🇳IN-152.67.160.174-4615', 'server': '152.67.160.174', 'port': 443, 'type': 'trojan', 'password': '54080134-2cba-4535-8599-95650bd9aa54', 'skip-cert-verify': False}
-  - {'name': '🏁RELAY-141.101.114.25-4616', 'server': '141.101.114.25', 'port': 443, 'type': 'vmess', 'uuid': '91646f9a-b4e9-4aca-bfe3-8892b3e58fe7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'lg30.cfcdn3.xyz'}}}
-  - {'name': '🏁RELAY-104.26.4.10-4618', 'server': 'hynesconstruction.com', 'port': 443, 'type': 'vmess', 'uuid': 'c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/sshkit/401452697/635b464921141/', 'headers': {'Host': 'sg1-v2ray.sshkit.org'}}}
-  - {'name': '🏁RELAY-172.67.142.113-4619', 'server': '25.72img.xyz', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '25.72img.xyz'}}}
-  - {'name': '🏁RELAY-172.67.125.28-4620', 'server': '172.67.125.28', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '38.72img.xyz'}}}
-  - {'name': '🇺🇸US-129.146.242.130-4621', 'server': '129.146.242.130', 'port': 443, 'type': 'trojan', 'password': '05742120-ce23-4cc8-88f5-6d221ce45bf4', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-128.14.140.254-4622', 'server': '128.14.140.254', 'port': 443, 'type': 'vmess', 'uuid': '0479eb9d-999d-4bff-ae3f-4f7cc440ce46', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'v2ray2.ssr-free2.xyz'}}}
-  - {'name': '🇮🇳IN-155.248.241.52-4623', 'server': '155.248.241.52', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
-  - {'name': '🏁RELAY-141.101.114.111-4624', 'server': '141.101.114.111', 'port': 443, 'type': 'vmess', 'uuid': 'f33957e8-372e-4fba-99ed-f4db32cce9e5', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'fr2.cfcdn4.xyz'}}}
-  - {'name': '🏁RELAY-198.41.212.145-4626', 'server': '198.41.212.145', 'port': 443, 'type': 'vmess', 'uuid': '33aa57df-1c93-4318-9fce-e850437ee781', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'lg1.cfcdn3.xyz'}}}
-  - {'name': '🏁RELAY-104.29.64.2-4627', 'server': '104.29.64.2', 'port': 443, 'type': 'vmess', 'uuid': 'f33957e8-372e-4fba-99ed-f4db32cce9e5', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'fr2.cfcdn4.xyz'}}}
-  - {'name': '🇻🇳VN-103.161.112.225-4628', 'server': '103.161.112.225', 'port': 80, 'type': 'vmess', 'uuid': 'fc49716a-3594-47b2-8667-0bfba2a88e60', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/vpndata.shop'}}
-  - {'name': '🏁RELAY-172.67.142.113-4630', 'server': '55.72img.xyz', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '55.72img.xyz'}}}
-  - {'name': '🏁RELAY-172.67.183.35-4631', 'server': '172.67.183.35', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '38.72img.xyz'}}}
-  - {'name': '🏁RELAY-172.67.142.113-4632', 'server': '26.72img.xyz', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '26.72img.xyz'}}}
-  - {'name': '🏁RELAY-104.21.94.253-4633', 'server': '54.72img.xyz', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '54.72img.xyz'}}}
-  - {'name': '🏁RELAY-172.64.154.222-4634', 'server': '172.64.154.222', 'port': 443, 'type': 'vmess', 'uuid': 'fcfaec91-6096-44d8-956c-7868d9e874b1', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'lg1.cfcdn1.xyz'}}}
-  - {'name': '🏁RELAY-141.101.114.20-4635', 'server': '141.101.114.20', 'port': 443, 'type': 'vmess', 'uuid': '176b598f-445b-41ac-9d2a-430c5c4df26a', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'clash1.trump2023.net'}}}
-  - {'name': '🏁RELAY-172.67.142.113-4636', 'server': '9.72img.xyz', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '9.72img.xyz'}}}
-  - {'name': '🏁RELAY-172.67.142.113-4637', 'server': '29.72img.xyz', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '29.72img.xyz'}}}
-  - {'name': '🇦🇶NOWHERE-0.0.0.0-4638', 'server': 'content-provider26.cdn-delivery.akamaicd.com', 'port': 443, 'type': 'trojan', 'password': 'origin', 'sni': 'content-provider26.cdn-delivery.akamaicd.com', 'skip-cert-verify': False}
-  - {'name': '🇦🇶NOWHERE-0.0.0.0-4641', 'server': 'content-provider24.cdn-delivery.akamaicd.com', 'port': 443, 'type': 'trojan', 'password': 'Sp3eDVp', 'sni': 'content-provider24.cdn-delivery.akamaicd.com', 'skip-cert-verify': False}
-  - {'name': '🏁RELAY-141.101.115.133-4642', 'server': '141.101.115.133', 'port': 443, 'type': 'vmess', 'uuid': 'fcfaec91-6096-44d8-956c-7868d9e874b1', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'lg1.cfcdn1.xyz'}}}
-  - {'name': '🏁RELAY-141.101.115.120-4644', 'server': '141.101.115.120', 'port': 443, 'type': 'vmess', 'uuid': '33aa57df-1c93-4318-9fce-e850437ee781', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com'}}
-  - {'name': '🏁RELAY-141.101.114.133-4645', 'server': '141.101.114.133', 'port': 443, 'type': 'vmess', 'uuid': 'fcfaec91-6096-44d8-956c-7868d9e874b1', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'lg1.cfcdn1.xyz'}}}
-  - {'name': '🏁RELAY-141.101.115.111-4646', 'server': '141.101.115.111', 'port': 443, 'type': 'vmess', 'uuid': 'f33957e8-372e-4fba-99ed-f4db32cce9e5', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'fr2.cfcdn4.xyz'}}}
-  - {'name': '🏁RELAY-141.101.115.136-4647', 'server': '141.101.115.136', 'port': 443, 'type': 'vmess', 'uuid': 'fcfaec91-6096-44d8-956c-7868d9e874b1', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'lg1.cfcdn1.xyz'}}}
-  - {'name': '🇺🇸US-66.212.20.3-4648', 'server': '66.212.20.3', 'port': 443, 'type': 'vmess', 'uuid': '0479eb9d-999d-4bff-ae3f-4f7cc440ce46', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'v2ray2.ssr-free2.xyz'}}}
-  - {'name': '🏁RELAY-172.64.145.137-4649', 'server': 'zfc.windowsupdate1.com', 'port': 443, 'type': 'vmess', 'uuid': '8d0bbf13-e1ef-419d-b054-20815774233b', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/meizhiyuan/hinet?ed=2048', 'headers': {'Host': 'hinet.guolicheng.cyou'}}}
-  - {'name': '🏁RELAY-198.41.212.100-4650', 'server': '198.41.212.100', 'port': 443, 'type': 'vmess', 'uuid': '91646f9a-b4e9-4aca-bfe3-8892b3e58fe7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'lg30.cfcdn3.xyz'}}}
-  - {'name': '🇳🇱NL-94.102.53.19-4651', 'server': '94.102.53.19', 'port': 443, 'type': 'trojan', 'password': 'TestingServer@@', 'skip-cert-verify': False}
-  - {'name': '🏁RELAY-104.21.94.253-4653', 'server': '22.72img.xyz', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '22.72img.xyz'}}}
-  - {'name': '🏁RELAY-141.101.115.100-4655', 'server': '141.101.115.100', 'port': 443, 'type': 'vmess', 'uuid': '267a9f38-40d8-4ed6-ab58-cafc67e9c933', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/VHONOFZ3'}}
-  - {'name': '🏁RELAY-141.101.114.17-4656', 'server': '141.101.114.17', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'clash6.ssr-free.xyz'}}}
-  - {'name': '🇨🇦CA-148.113.141.99-4657', 'server': '148.113.141.99', 'port': 443, 'type': 'trojan', 'password': 'HdsUZmsHQW', 'skip-cert-verify': False}
-  - {'name': '🏁RELAY-198.41.212.122-4658', 'server': '198.41.212.122', 'port': 443, 'type': 'vmess', 'uuid': 'f33957e8-372e-4fba-99ed-f4db32cce9e5', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'fr2.cfcdn4.xyz'}}}
-  - {'name': '🇳🇱NL-195.20.51.147-4659', 'server': 'king2.mmadserr.ml', 'port': 2095, 'type': 'vmess', 'uuid': 'dabdbbec-f774-41ff-a296-18026f469a97', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/fhf5hfth565fhtf', 'headers': {'Host': 'king2.mmadserr.ml'}}}
-  - {'name': '🇹🇼TW-1.162.83.216-4660', 'server': 'azgy001.xibai6.top', 'port': 20789, 'type': 'trojan', 'password': 'ca2345ba-46e7-3991-b1b7-45d18954caf1', 'skip-cert-verify': False}
-  - {'name': '🏁RELAY-172.67.142.113-4661', 'server': '21.72img.xyz', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '21.72img.xyz'}}}
-  - {'name': '🏁RELAY-141.101.115.160-4662', 'server': '141.101.115.160', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'clash6.ssr-free.xyz'}}}
-  - {'name': '🇦🇶NOWHERE-0.0.0.0-4663', 'server': 'content-provider1.cdn-delivery.akamaicd.com', 'port': 443, 'type': 'trojan', 'password': 'TestingServer@@', 'skip-cert-verify': False}
-  - {'name': '🏁RELAY-104.21.94.253-4664', 'server': '20.72img.xyz', 'port': 443, 'type': 'vmess', 'uuid': '81d93f62-15a2-4994-adb9-0b5d906aac7e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '20.72img.xyz'}}}
-  - {'name': '🏁RELAY-104.21.47.75-4666', 'server': 'buyvm.imkcp.eu.org', 'port': 443, 'type': 'vmess', 'uuid': '6fb9a750-55b8-4e6e-857b-242b795399dc', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/imkcpyyds', 'headers': {'Host': 'buyvm.imkcp.eu.org'}}}
-  - {'name': '🏁RELAY-172.64.150.170-4667', 'server': '172.64.150.170', 'port': 443, 'type': 'vmess', 'uuid': '65218fe8-d9c2-4e07-95bb-cb6e379a440b', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/65218fe8-d9c2-4e07-95bb-cb6e379a440b-vm', 'headers': {'Host': '001frg.pages.dev'}}}
-  - {'name': '🏁RELAY-141.101.114.121-4668', 'server': '141.101.114.121', 'port': 443, 'type': 'vmess', 'uuid': 'f33957e8-372e-4fba-99ed-f4db32cce9e5', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'fr2.cfcdn4.xyz'}}}
-  - {'name': '🇰🇷KR-130.162.141.104-4669', 'server': '130.162.141.104', 'port': 443, 'type': 'vmess', 'uuid': '6093eefb-7ab6-41df-aba0-d5fa58147e10', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/reffs7y26g0ua'}}
-  - {'name': '🏁RELAY-198.41.203.15-4675', 'server': '198.41.203.15', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🏁RELAY-203.30.191.20-4679', 'server': '203.30.191.20', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'clash6.ssr-free.xyz'}}}
-  - {'name': '🏁RELAY-141.101.114.150-4680', 'server': '141.101.114.150', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com'}}
-  - {'name': '🏁RELAY-104.22.5.222-4685', 'server': 'www.qatar2022.qa', 'port': 80, 'type': 'vmess', 'uuid': 'eeb4d7f3-1f96-4d87-98d8-6f699aac5d8e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/TxIq76mA/', 'headers': {'Host': 'www.qatar2022.qa'}}}
-  - {'name': '🏁RELAY-190.93.244.2-4688', 'server': '190.93.244.2', 'port': 443, 'type': 'vmess', 'uuid': '40d496a6-ceeb-4096-baeb-4cc52b205621', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ECTCJ0DF', 'headers': {'Host': 'lg1.trump2023.us'}}}
-  - {'name': '🏁RELAY-162.159.137.21-4693', 'server': '162.159.137.21', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU'}}
-  - {'name': '🏁RELAY-203.30.191.6-4695', 'server': '203.30.191.6', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🇹🇼TW-45.121.51.103-4707', 'server': '45.121.51.103', 'port': 20715, 'type': 'vmess', 'uuid': 'f6406b6d-5487-46da-f793-46611269a306', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'http', 'http-opts': {'method': 'GET', 'path': ['/']}}
-  - {'name': '🏁RELAY-141.101.115.111-4708', 'server': '141.101.115.111', 'port': 443, 'type': 'vmess', 'uuid': '2b214122-1906-428a-bbb7-a039cbb7cd5c', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/9JZFDTKE', 'headers': {'Host': 'fr1.trump2023.org'}}}
-  - {'name': '🏁RELAY-188.114.99.10-4709', 'server': '188.114.99.10', 'port': 443, 'type': 'vmess', 'uuid': '56a2188b-2ab7-402c-b9b8-34847fdf0958', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/5QNROSRV', 'headers': {'Host': 'oplg1.zhujicn2.com'}}}
-  - {'name': '🏁RELAY-198.41.203.6-4710', 'server': '198.41.203.6', 'port': 443, 'type': 'vmess', 'uuid': '2b214122-1906-428a-bbb7-a039cbb7cd5c', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/9JZFDTKE', 'headers': {'Host': 'fr1.trump2023.org'}}}
-  - {'name': '🏁RELAY-141.101.114.102-4711', 'server': '141.101.114.102', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com'}}
-  - {'name': '🏁RELAY-172.64.197.0-4712', 'server': 'cf-lt-dns.sharecentre.online', 'port': 443, 'type': 'vmess', 'uuid': '20e92881-5fb4-4b05-bc77-57929476dc69', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/shirker', 'headers': {'Host': 'us-dp2.sharecentre.online'}}}
-  - {'name': '🏁RELAY-203.30.188.121-4713', 'server': '203.30.188.121', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🏁RELAY-172.67.66.139-4714', 'server': 'cf-yd-dns.sharecentre.online', 'port': 443, 'type': 'vmess', 'uuid': '20e92881-5fb4-4b05-bc77-57929476dc69', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/shirker', 'headers': {'Host': 'sg-1.sharecentre.online'}}}
-  - {'name': '🏁RELAY-23.227.38.38-4715', 'server': '23.227.38.38', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🏁RELAY-190.93.245.2-4717', 'server': '190.93.245.2', 'port': 443, 'type': 'vmess', 'uuid': '40d496a6-ceeb-4096-baeb-4cc52b205621', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ECTCJ0DF', 'headers': {'Host': 'lg1.trump2023.us'}}}
-  - {'name': '🏁RELAY-203.24.108.8-4718', 'server': '203.24.108.8', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🏁RELAY-203.30.191.19-4719', 'server': '203.30.191.19', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'clash6.ssr-free.xyz'}}}
-  - {'name': '🏁RELAY-104.16.148.244-4721', 'server': 'fbi.gov', 'port': 443, 'type': 'vmess', 'uuid': 'd5a38eaf-b723-45be-b7d2-3c4e45b29400', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/videos', 'headers': {'Host': 'fbi.gov'}}}
-  - {'name': '🏁RELAY-141.101.114.30-4724', 'server': '141.101.114.30', 'port': 443, 'type': 'vmess', 'uuid': '40d496a6-ceeb-4096-baeb-4cc52b205621', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ECTCJ0DF', 'headers': {'Host': 'lg1.trump2023.us'}}}
-  - {'name': '🏁RELAY-203.30.191.9-4726', 'server': '203.30.191.9', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🏁RELAY-141.101.115.120-4729', 'server': '141.101.115.120', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'clash6.ssr-free.xyz'}}}
-  - {'name': '🏁RELAY-23.227.38.27-4730', 'server': '23.227.38.27', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🏁RELAY-23.227.38.33-4732', 'server': 'SHOPIFY.COM', 'port': 80, 'type': 'vmess', 'uuid': 'eeb4d7f3-1f96-4d87-98d8-6f699aac5d8e', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/TxIq76mA/', 'headers': {'Host': 'SHOPIFY.COM'}}}
-  - {'name': '🏁RELAY-23.227.38.26-4736', 'server': '23.227.38.26', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🏁RELAY-172.67.164.125-4738', 'server': '172.67.164.125', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU'}}
-  - {'name': '🏁RELAY-172.64.154.155-4739', 'server': '172.64.154.155', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com'}}
-  - {'name': '🏁RELAY-198.41.203.7-4740', 'server': '198.41.203.7', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'clash6.ssr-free.xyz'}}}
-  - {'name': '🏁RELAY-141.101.114.17-4742', 'server': '141.101.114.17', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com'}}
-  - {'name': '🏁RELAY-141.101.115.100-4743', 'server': '141.101.115.100', 'port': 443, 'type': 'vmess', 'uuid': '2b214122-1906-428a-bbb7-a039cbb7cd5c', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/9JZFDTKE', 'headers': {'Host': 'fr1.trump2023.org'}}}
-  - {'name': '🏁RELAY-162.159.130.11-4748', 'server': 'investors.spotify.com', 'port': 443, 'type': 'vmess', 'uuid': '6fea1649-425b-4092-bf53-29792152c925', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/sshkit/Ertusg86/635014638c264/', 'headers': {'Host': 'investors.spotify.com'}}}
-  - {'name': '🏁RELAY-203.30.191.3-4751', 'server': '203.30.191.3', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🏁RELAY-172.64.154.102-4753', 'server': '172.64.154.102', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com'}}
-  - {'name': '🏁RELAY-203.30.191.191-4754', 'server': '203.30.191.191', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🏁RELAY-104.18.28.7-4758', 'server': 'cfspeed.areyouikun.com', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🇦🇶NOWHERE-0.0.0.0-4759', 'server': 'jp-04.wxfz.ml', 'port': 80, 'type': 'vmess', 'uuid': 'a0733fc9-457e-498d-c363-9ec774a74948', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/jun', 'headers': {'Host': 'jp-04.wxfz.ml'}}}
-  - {'name': '🇱🇺LU-81.28.12.12-4760', 'server': 'st.3wcdn.xyz', 'port': 443, 'type': 'vmess', 'uuid': '8467a939-b0c2-4444-cd72-aed162ea8c09', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/gogo', 'headers': {'Host': 'st.3wcdn.xyz'}}}
-  - {'name': '🏁RELAY-141.101.115.160-4762', 'server': '141.101.115.160', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com'}}
-  - {'name': '🏁RELAY-23.227.38.21-4764', 'server': '23.227.38.21', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🏁RELAY-172.67.132.15-4765', 'server': 'ming2.kiwireich.com', 'port': 443, 'type': 'vmess', 'uuid': '18e5f40f-bda6-4c15-9334-e87cda6047af', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': 'ming2.kiwireich.com'}}}
-  - {'name': '🏁RELAY-141.101.115.155-4766', 'server': '141.101.115.155', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com'}}
-  - {'name': '🏁RELAY-141.101.114.110-4769', 'server': '141.101.114.110', 'port': 443, 'type': 'vmess', 'uuid': 'c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/AUIKN8AU', 'headers': {'Host': 'oplg1.cfcdn2.xyz'}}}
-  - {'name': '🇯🇵JP-138.2.39.67-4778', 'server': '138.2.39.67', 'port': 80, 'type': 'vmess', 'uuid': 'ab335c88-d14a-4e67-b52c-54ed8be80c49', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '138.2.39.67'}}}
-  - {'name': '🏁RELAY-141.101.115.140-4781', 'server': '141.101.115.140', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com'}}
-  - {'name': '🇮🇳IN-194.195.117.57-4782', 'server': 'vin1.0bad.com', 'port': 443, 'type': 'vmess', 'uuid': '927094d3-d678-4763-8591-e240d0bcae87', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/chat', 'headers': {'Host': 'vin1.0bad.com'}}}
+  - {'name': '🇺🇸US-107.174.156.99-1757', 'server': '107.174.156.99', 'port': 1234, 'type': 'vmess', 'uuid': '47ab043c-7320-4db8-9e55-9076043f674a', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/bb'}}
+  - {'name': '🇺🇸US-38.75.136.21-1758', 'server': '38.75.136.21', 'port': 7307, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'FoOiGlkAA9yPEGP'}
+  - {'name': '🇺🇸US-38.114.114.143-1759', 'server': '38.114.114.143', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-167.88.62.68-1760', 'server': '167.88.62.68', 'port': 6679, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'TEzjfAYq2IjtuoS'}
+  - {'name': '🇺🇸US-38.114.114.139-1761', 'server': '38.114.114.139', 'port': 810, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇺🇸US-38.91.102.74-1762', 'server': '38.91.102.74', 'port': 5000, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-169.197.141.187-1763', 'server': '169.197.141.187', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.75.136.161-1764', 'server': '38.75.136.161', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.75.136.135-1765', 'server': '38.75.136.135', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-167.88.61.119-1766', 'server': '167.88.61.119', 'port': 5001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-193.239.87.134-1767', 'server': '193.239.87.134', 'port': 810, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇺🇸US-174.136.207.103-1769', 'server': '174.136.207.103', 'port': 443, 'type': 'trojan', 'password': '1af287d5-2f03-30b5-a2b9-c67a0a727770mielink', 'skip-cert-verify': False}
+  - {'name': '🇺🇸US-167.88.63.44-1770', 'server': '167.88.63.44', 'port': 6679, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'TEzjfAYq2IjtuoS'}
+  - {'name': '🇺🇸US-167.88.62.68-1771', 'server': '167.88.62.68', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.143.66.55-1772', 'server': '38.143.66.55', 'port': 5000, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.91.106.51-1773', 'server': '38.91.106.51', 'port': 8118, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.91.106.75-1774', 'server': '38.91.106.75', 'port': 4444, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-167.88.63.99-1776', 'server': '167.88.63.99', 'port': 3389, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-167.88.62.68-1777', 'server': '167.88.62.68', 'port': 8000, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-167.88.63.99-1778', 'server': '167.88.63.99', 'port': 4444, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-142.202.48.99-1779', 'server': '142.202.48.99', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-142.202.48.99-1780', 'server': '142.202.48.99', 'port': 8080, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.91.107.72-1781', 'server': '38.91.107.72', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-169.197.141.187-1782', 'server': '169.197.141.187', 'port': 5000, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-167.88.61.50-1783', 'server': '167.88.61.50', 'port': 3306, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🏁RELAY-173.245.59.236-1784', 'server': '173.245.59.236', 'port': 2082, 'type': 'vmess', 'uuid': '082122a2-8479-4089-82f0-f32ba5fc5426', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/bb', 'headers': {'Host': 'hao.huaqian.icu'}}}
+  - {'name': '🇺🇸US-167.88.62.68-1785', 'server': '167.88.62.68', 'port': 5600, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.107.226.146-1786', 'server': '38.107.226.146', 'port': 8091, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-38.107.226.146-1787', 'server': '38.107.226.146', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.107.226.146-1788', 'server': '38.107.226.146', 'port': 8080, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.107.226.146-1789', 'server': '38.107.226.146', 'port': 7307, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'FoOiGlkAA9yPEGP'}
+  - {'name': '🇺🇸US-38.107.226.146-1790', 'server': '38.107.226.146', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.107.226.146-1791', 'server': '38.107.226.146', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.107.226.146-1792', 'server': '38.107.226.146', 'port': 7306, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'FoOiGlkAA9yPEGP'}
+  - {'name': '🇺🇸US-38.107.226.146-1793', 'server': '38.107.226.146', 'port': 8090, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-167.88.62.68-1794', 'server': '167.88.62.68', 'port': 8119, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.107.226.146-1795', 'server': '38.107.226.146', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-142.202.48.99-1796', 'server': '142.202.48.99', 'port': 8090, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-38.107.226.146-1797', 'server': '38.107.226.146', 'port': 3306, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-167.88.62.68-1798', 'server': '167.88.62.68', 'port': 9102, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+  - {'name': '🇺🇸US-167.88.62.68-1799', 'server': '167.88.62.68', 'port': 4444, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.91.102.72-1800', 'server': '38.91.102.72', 'port': 5600, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-169.197.143.232-1801', 'server': '169.197.143.232', 'port': 8009, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'XKFKl2rULjIp74'}
+  - {'name': '🇺🇸US-167.88.61.236-1802', 'server': '167.88.61.236', 'port': 802, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇺🇸US-38.68.134.191-1803', 'server': '38.68.134.191', 'port': 7001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-38.91.107.66-1806', 'server': '38.91.107.66', 'port': 8091, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-38.86.135.27-1807', 'server': '38.86.135.27', 'port': 5600, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-167.88.61.119-1808', 'server': '167.88.61.119', 'port': 8882, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-169.197.143.232-1809', 'server': '169.197.143.232', 'port': 7001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-38.114.114.69-1810', 'server': '38.114.114.69', 'port': 4444, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.91.101.159-1811', 'server': '38.91.101.159', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.75.136.135-1812', 'server': '38.75.136.135', 'port': 5600, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.143.66.64-1813', 'server': '38.143.66.64', 'port': 8882, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.143.66.55-1814', 'server': '38.143.66.55', 'port': 8090, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-38.114.114.69-1815', 'server': '38.114.114.69', 'port': 7002, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-38.121.43.71-1816', 'server': '38.121.43.71', 'port': 8090, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-38.68.134.48-1817', 'server': '38.68.134.48', 'port': 9102, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+  - {'name': '🇺🇸US-77.83.254.18-1818', 'server': '77.83.254.18', 'port': 16123, 'type': 'vmess', 'uuid': 'b44fd079-ab6d-4c0d-c05b-c536028af33b', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
+  - {'name': '🇺🇸US-38.91.101.159-1819', 'server': '38.91.101.159', 'port': 8882, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-167.88.61.119-1820', 'server': '167.88.61.119', 'port': 7307, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'FoOiGlkAA9yPEGP'}
+  - {'name': '🇺🇸US-167.88.61.119-1821', 'server': '167.88.61.119', 'port': 8119, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🏁RELAY-172.67.178.203-1822', 'server': '172.67.178.203', 'port': 80, 'type': 'vmess', 'uuid': '735ff430-9d1a-4f57-fb66-e43a26a76f70', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ccpp', 'headers': {'Host': 'ccpp.91pan.one'}}}
+  - {'name': '🇺🇸US-38.114.114.104-1823', 'server': '38.114.114.104', 'port': 3306, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.114.114.139-1824', 'server': '38.114.114.139', 'port': 805, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇺🇸US-38.114.114.139-1825', 'server': '38.114.114.139', 'port': 808, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇺🇸US-38.91.107.66-1826', 'server': '38.91.107.66', 'port': 8000, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-142.202.48.52-1827', 'server': '142.202.48.52', 'port': 5600, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.114.114.69-1828', 'server': '38.114.114.69', 'port': 7001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-169.197.142.48-1829', 'server': '169.197.142.48', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-38.75.136.34-1830', 'server': '38.75.136.34', 'port': 5601, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-167.88.63.44-1831', 'server': '167.88.63.44', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.143.66.20-1832', 'server': '38.143.66.20', 'port': 3389, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-37.120.147.230-1833', 'server': '37.120.147.230', 'port': 808, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇺🇸US-38.68.135.19-1834', 'server': '38.68.135.19', 'port': 6679, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'TEzjfAYq2IjtuoS'}
+  - {'name': '🇺🇸US-38.86.135.27-1835', 'server': '38.86.135.27', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.91.106.75-1836', 'server': '38.91.106.75', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.86.135.27-1837', 'server': '38.86.135.27', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.75.136.34-1838', 'server': '38.75.136.34', 'port': 8119, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.143.66.55-1839', 'server': '38.143.66.55', 'port': 3306, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.68.134.9-1840', 'server': '38.68.134.9', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-167.88.61.213-1841', 'server': '167.88.61.213', 'port': 8008, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'XKFKl2rULjIp74'}
+  - {'name': '🇺🇸US-38.68.134.9-1842', 'server': '38.68.134.9', 'port': 8009, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'XKFKl2rULjIp74'}
+  - {'name': '🇺🇸US-167.88.63.82-1843', 'server': '167.88.63.82', 'port': 5000, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.75.136.21-1844', 'server': '38.75.136.21', 'port': 5500, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.91.102.30-1845', 'server': '38.91.102.30', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.114.114.139-1846', 'server': '38.114.114.139', 'port': 809, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇺🇸US-167.88.61.14-1847', 'server': '167.88.61.14', 'port': 5000, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-167.88.61.50-1848', 'server': '167.88.61.50', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-169.197.141.14-1849', 'server': '169.197.141.14', 'port': 8888, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.114.114.19-1850', 'server': '38.114.114.19', 'port': 5000, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-167.88.63.44-1851', 'server': '167.88.63.44', 'port': 8119, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.121.43.204-1852', 'server': '38.121.43.204', 'port': 9101, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+  - {'name': '🇺🇸US-167.88.61.14-1853', 'server': '167.88.61.14', 'port': 8091, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-38.114.114.49-1854', 'server': '38.114.114.49', 'port': 9102, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+  - {'name': '🇺🇸US-38.68.135.18-1855', 'server': '38.68.135.18', 'port': 7001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-38.143.66.64-1856', 'server': '38.143.66.64', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.143.66.55-1857', 'server': '38.143.66.55', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-38.91.101.159-1858', 'server': '38.91.101.159', 'port': 8009, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'XKFKl2rULjIp74'}
+  - {'name': '🇺🇸US-38.143.66.99-1859', 'server': '38.143.66.99', 'port': 8090, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-167.88.61.119-1860', 'server': '167.88.61.119', 'port': 8118, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.75.136.135-1861', 'server': '38.75.136.135', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.68.134.9-1862', 'server': '38.68.134.9', 'port': 8888, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.143.66.55-1863', 'server': '38.143.66.55', 'port': 5001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.75.136.21-1864', 'server': '38.75.136.21', 'port': 5600, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.143.66.99-1865', 'server': '38.143.66.99', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.75.136.21-1866', 'server': '38.75.136.21', 'port': 5000, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-167.88.63.82-1867', 'server': '167.88.63.82', 'port': 4444, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.64.138.145-1868', 'server': '38.64.138.145', 'port': 9102, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+  - {'name': '🇺🇸US-38.91.102.74-1869', 'server': '38.91.102.74', 'port': 8119, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.68.135.19-1870', 'server': '38.68.135.19', 'port': 3306, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-167.88.63.44-1871', 'server': '167.88.63.44', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.143.66.64-1872', 'server': '38.143.66.64', 'port': 8119, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.143.66.55-1873', 'server': '38.143.66.55', 'port': 7001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-38.68.134.135-1874', 'server': '38.68.134.135', 'port': 808, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇺🇸US-167.88.63.82-1875', 'server': '167.88.63.82', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.143.66.64-1876', 'server': '38.143.66.64', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.91.107.66-1877', 'server': '38.91.107.66', 'port': 3306, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.143.66.64-1878', 'server': '38.143.66.64', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.114.114.67-1879', 'server': '38.114.114.67', 'port': 4444, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-167.88.62.68-1880', 'server': '167.88.62.68', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-167.88.61.119-1881', 'server': '167.88.61.119', 'port': 9102, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+  - {'name': '🇺🇸US-38.68.135.18-1882', 'server': '38.68.135.18', 'port': 8080, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.114.114.67-1883', 'server': '38.114.114.67', 'port': 7002, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-142.202.48.7-1884', 'server': '142.202.48.7', 'port': 5601, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-142.202.48.52-1885', 'server': '142.202.48.52', 'port': 5001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🏁RELAY-173.245.58.205-1886', 'server': '173.245.58.205', 'port': 443, 'type': 'vmess', 'uuid': 'c5dbcea4-b22b-44fa-9d33-65f90659ce97', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/c5dbcea4-b22b-44fa-9d33-65f90659ce97', 'headers': {'Host': 'ap.utopub.com'}}}
+  - {'name': '🏁RELAY-104.24.13.245-1887', 'server': '104.24.13.245', 'port': 443, 'type': 'vmess', 'uuid': 'c5dbcea4-b22b-44fa-9d33-65f90659ce97', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/c5dbcea4-b22b-44fa-9d33-65f90659ce97', 'headers': {'Host': 'ap.utopub.com'}}}
+  - {'name': '🇺🇸US-38.64.138.145-1888', 'server': '38.64.138.145', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.91.102.74-1889', 'server': '38.91.102.74', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-132.226.152.22-1890', 'server': '132.226.152.22', 'port': 80, 'type': 'vmess', 'uuid': 'bce030bb-ba15-46e3-ea35-b5b034fe81f1', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ray', 'headers': {'Host': '132.226.152.22'}}}
+  - {'name': '🇺🇸US-38.91.102.74-1892', 'server': '38.91.102.74', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.143.66.64-1893', 'server': 'ak1415.free.www.outline.network', 'port': 5601, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-169.197.142.48-1894', 'server': '169.197.142.48', 'port': 8888, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.143.66.99-1895', 'server': '38.143.66.99', 'port': 7002, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-51.81.220.195-1896', 'server': '51.81.220.195', 'port': 80, 'type': 'vmess', 'uuid': '6fea1649-425b-4092-bf53-29792152c925', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/sshkit/Variu88/634dab7abadf1/', 'headers': {'Host': '51.81.220.195'}}}
+  - {'name': '🇺🇸US-38.114.114.67-1897', 'server': '38.114.114.67', 'port': 8000, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.114.114.49-1899', 'server': '38.114.114.49', 'port': 8118, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.114.114.67-1901', 'server': '38.114.114.67', 'port': 8119, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.143.66.64-1903', 'server': '38.143.66.64', 'port': 8888, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-129.146.255.158-1904', 'server': '129.146.255.158', 'port': 443, 'type': 'trojan', 'password': 'f39bd244-f5fe-415c-8b98-a1e5250bf178', 'skip-cert-verify': False}
+  - {'name': '🇺🇸US-38.75.136.21-1905', 'server': '38.75.136.21', 'port': 7002, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇨🇳CN-43.153.30.20-1907', 'server': '43.153.30.20', 'port': 8443, 'type': 'trojan', 'password': 'cf4295378e209e70d12c5bdd017144dfd1c772d3', 'skip-cert-verify': False}
+  - {'name': '🇺🇸US-38.64.138.145-1908', 'server': '38.64.138.145', 'port': 3389, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-5.161.135.210-1909', 'server': '5.161.135.210', 'port': 443, 'type': 'trojan', 'password': 'a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671', 'sni': '5.161.135.210', 'skip-cert-verify': False}
+  - {'name': '🇺🇸US-38.86.135.27-1910', 'server': '38.86.135.27', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.91.101.159-1912', 'server': '38.91.101.159', 'port': 7002, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-129.146.242.130-1913', 'server': '129.146.242.130', 'port': 443, 'type': 'trojan', 'password': '05742120-ce23-4cc8-88f5-6d221ce45bf4', 'skip-cert-verify': False}
+  - {'name': '🇺🇸US-38.91.101.159-1914', 'server': '38.91.101.159', 'port': 6679, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'TEzjfAYq2IjtuoS'}
+  - {'name': '🇺🇸US-38.86.135.27-1915', 'server': '38.86.135.27', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-38.91.101.159-1916', 'server': '38.91.101.159', 'port': 8090, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-38.75.136.102-1917', 'server': '38.75.136.102', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-38.91.101.159-1918', 'server': '38.91.101.159', 'port': 5500, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.68.135.19-1919', 'server': '38.68.135.19', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-38.143.66.55-1920', 'server': '38.143.66.55', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.91.101.159-1922', 'server': '38.91.101.159', 'port': 5001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.91.101.159-1924', 'server': '38.91.101.159', 'port': 8888, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.64.138.145-1925', 'server': '38.64.138.145', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-169.197.141.187-1926', 'server': '169.197.141.187', 'port': 8119, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.121.43.71-1927', 'server': '38.121.43.71', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-38.114.114.69-1928', 'server': '38.114.114.69', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-38.114.114.67-1929', 'server': '38.114.114.67', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-38.114.114.19-1930', 'server': '38.114.114.19', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-169.197.143.232-1931', 'server': '169.197.143.232', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-169.197.142.187-1932', 'server': '169.197.142.187', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-169.197.143.15-1933', 'server': '169.197.143.15', 'port': 808, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇺🇸US-167.88.61.175-1934', 'server': '167.88.61.175', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
+  - {'name': '🇺🇸US-169.197.141.14-1935', 'server': '169.197.141.14', 'port': 9102, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+  - {'name': '🇺🇸US-38.91.107.66-1936', 'server': '38.91.107.66', 'port': 4444, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.75.136.102-1937', 'server': '38.75.136.102', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.68.135.18-1938', 'server': '38.68.135.18', 'port': 4444, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.68.134.191-1939', 'server': '38.68.134.191', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.64.138.145-1940', 'server': '38.64.138.145', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.114.114.69-1941', 'server': '38.114.114.69', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.114.114.67-1942', 'server': '38.114.114.67', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.114.114.143-1943', 'server': '38.114.114.143', 'port': 4444, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-167.88.63.79-1944', 'server': '167.88.63.79', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-167.88.63.59-1945', 'server': '167.88.63.59', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-167.88.62.68-1946', 'server': '167.88.62.68', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-167.88.61.175-1948', 'server': '167.88.61.175', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-167.88.61.14-1949', 'server': '167.88.61.14', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.91.102.30-1951', 'server': '38.91.102.30', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.91.102.125-1952', 'server': '38.91.102.125', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.86.135.36-1953', 'server': '38.86.135.36', 'port': 8882, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.86.135.27-1954', 'server': '38.86.135.27', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.75.136.21-1955', 'server': '38.75.136.21', 'port': 8882, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.143.66.64-1959', 'server': '38.143.66.64', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.121.43.97-1960', 'server': '38.121.43.97', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.114.114.67-1961', 'server': '38.114.114.67', 'port': 8882, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-169.197.142.187-1963', 'server': '169.197.142.187', 'port': 8882, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-167.88.63.79-1964', 'server': '167.88.63.79', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-167.88.63.59-1965', 'server': '167.88.63.59', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-167.88.61.213-1966', 'server': '167.88.61.213', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-167.88.61.175-1967', 'server': '167.88.61.175', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-167.88.61.14-1968', 'server': '167.88.61.14', 'port': 8882, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-167.88.61.14-1969', 'server': '167.88.61.14', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.91.107.66-1970', 'server': '38.91.107.66', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.91.107.37-1971', 'server': '38.91.107.37', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.91.107.216-1972', 'server': '38.91.107.216', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.91.102.74-1973', 'server': '38.91.102.74', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.91.102.30-1974', 'server': '38.91.102.30', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.91.102.124-1975', 'server': '38.91.102.124', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.91.101.159-1976', 'server': '38.91.101.159', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.86.135.36-1977', 'server': '38.86.135.36', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.86.135.27-1978', 'server': '38.86.135.27', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.86.135.27-1979', 'server': '38.86.135.27', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.75.137.9-1980', 'server': '38.75.137.9', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.75.137.9-1981', 'server': '38.75.137.9', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.75.136.21-1982', 'server': '38.75.136.21', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.75.136.102-1983', 'server': '38.75.136.102', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.68.135.19-1984', 'server': '38.68.135.19', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.68.135.19-1985', 'server': '38.68.135.19', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.68.135.18-1986', 'server': '38.68.135.18', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.68.134.191-1988', 'server': '38.68.134.191', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.68.134.191-1989', 'server': '38.68.134.191', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.64.138.145-1990', 'server': '38.64.138.145', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.64.138.145-1991', 'server': '38.64.138.145', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.121.43.71-1992', 'server': '38.121.43.71', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.121.43.71-1993', 'server': '38.121.43.71', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.114.114.69-1994', 'server': '38.114.114.69', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.114.114.67-1995', 'server': '38.114.114.67', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.114.114.67-1996', 'server': '38.114.114.67', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🏁RELAY-172.67.204.23-1997', 'server': '172.67.204.23', 'port': 80, 'type': 'vmess', 'uuid': '735ff430-9d1a-4f57-fb66-e43a26a76f70', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ccpp', 'headers': {'Host': 'ccpp.91pan.one'}}}
+  - {'name': '🇺🇸US-38.114.114.49-1999', 'server': '38.114.114.49', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.114.114.49-2000', 'server': '38.114.114.49', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-169.197.142.48-2001', 'server': '169.197.142.48', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.68.134.48-2002', 'server': '38.68.134.48', 'port': 8119, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-169.197.142.187-2003', 'server': '169.197.142.187', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-167.88.63.79-2005', 'server': '167.88.63.79', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-167.88.63.79-2006', 'server': '167.88.63.79', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-167.88.62.68-2007', 'server': '167.88.62.68', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-167.88.62.68-2008', 'server': '167.88.62.68', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-167.88.62.62-2009', 'server': '167.88.62.62', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-167.88.61.213-2010', 'server': '167.88.61.213', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-167.88.61.213-2011', 'server': '167.88.61.213', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-167.88.61.175-2012', 'server': '167.88.61.175', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.143.66.99-2013', 'server': '38.143.66.99', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-167.88.61.175-2014', 'server': '167.88.61.175', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.91.102.74-2015', 'server': '38.91.102.74', 'port': 6697, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'TEzjfAYq2IjtuoS'}
+  - {'name': '🇺🇸US-38.91.107.72-2016', 'server': '38.91.107.72', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-167.88.63.59-2017', 'server': '167.88.63.59', 'port': 8009, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'XKFKl2rULjIp74'}
+  - {'name': '🇺🇸US-38.143.66.64-2018', 'server': '38.143.66.64', 'port': 8118, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.143.66.20-2019', 'server': '38.143.66.20', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.75.136.21-2020', 'server': '38.75.136.21', 'port': 6697, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'TEzjfAYq2IjtuoS'}
+  - {'name': '🇺🇸US-38.91.101.159-2021', 'server': '38.91.101.159', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.91.107.66-2022', 'server': '38.91.107.66', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-167.88.61.119-2023', 'server': '167.88.61.119', 'port': 7001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-38.121.43.71-2024', 'server': '38.121.43.71', 'port': 8118, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.91.101.159-2025', 'server': '38.91.101.159', 'port': 9101, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+  - {'name': '🇺🇸US-38.68.135.19-2026', 'server': '38.68.135.19', 'port': 8009, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'XKFKl2rULjIp74'}
+  - {'name': '🇺🇸US-38.68.135.19-2027', 'server': '38.68.135.19', 'port': 7001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-38.91.101.159-2028', 'server': '38.91.101.159', 'port': 8000, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.91.102.72-2029', 'server': '38.91.102.72', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.68.134.48-2030', 'server': '38.68.134.48', 'port': 8080, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.121.43.71-2031', 'server': '38.121.43.71', 'port': 8080, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.121.43.71-2032', 'server': '38.121.43.71', 'port': 5601, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.68.134.9-2033', 'server': '38.68.134.9', 'port': 8091, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-38.91.101.159-2034', 'server': '38.91.101.159', 'port': 8119, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-38.91.101.159-2035', 'server': '38.91.101.159', 'port': 8008, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'XKFKl2rULjIp74'}
+  - {'name': '🇺🇸US-38.91.101.159-2037', 'server': '38.91.101.159', 'port': 6697, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'TEzjfAYq2IjtuoS'}
+  - {'name': '🇺🇸US-38.68.134.48-2038', 'server': '38.68.134.48', 'port': 3306, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.91.107.66-2039', 'server': '38.91.107.66', 'port': 5600, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.91.107.66-2040', 'server': '38.91.107.66', 'port': 7306, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'FoOiGlkAA9yPEGP'}
+  - {'name': '🇺🇸US-38.91.107.66-2041', 'server': '38.91.107.66', 'port': 8008, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'XKFKl2rULjIp74'}
+  - {'name': '🇺🇸US-38.91.107.66-2042', 'server': '38.91.107.66', 'port': 8009, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'XKFKl2rULjIp74'}
+  - {'name': '🇺🇸US-38.91.107.66-2043', 'server': '38.91.107.66', 'port': 8888, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.91.101.159-2044', 'server': '38.91.101.159', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.75.136.21-2046', 'server': '38.75.136.21', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.75.136.102-2047', 'server': '38.75.136.102', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.68.135.239-2048', 'server': '38.68.135.239', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.68.135.19-2049', 'server': '38.68.135.19', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.68.135.19-2050', 'server': '38.68.135.19', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.68.134.9-2051', 'server': '38.68.134.9', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.68.134.48-2053', 'server': '38.68.134.48', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.68.134.191-2054', 'server': '38.68.134.191', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.64.138.145-2056', 'server': '38.64.138.145', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.143.66.55-2057', 'server': '38.143.66.55', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.143.66.55-2058', 'server': '38.143.66.55', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.121.43.71-2059', 'server': '38.121.43.71', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.121.43.71-2060', 'server': '38.121.43.71', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.121.43.65-2061', 'server': '38.121.43.65', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.114.114.69-2062', 'server': '38.114.114.69', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.143.66.64-2063', 'server': '38.143.66.64', 'port': 7001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-38.86.135.27-2064', 'server': '38.86.135.27', 'port': 5499, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'lGqs95QkFHo2NV'}
+  - {'name': '🇺🇸US-38.68.135.19-2065', 'server': '38.68.135.19', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-167.88.63.44-2066', 'server': '167.88.63.44', 'port': 8881, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.114.114.67-2067', 'server': '38.114.114.67', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-38.143.66.64-2068', 'server': '38.143.66.64', 'port': 8090, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-38.114.114.19-2069', 'server': '38.114.114.19', 'port': 8888, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.114.114.67-2070', 'server': '38.114.114.67', 'port': 8118, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
+  - {'name': '🇺🇸US-167.88.61.119-2071', 'server': '167.88.61.119', 'port': 9101, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+  - {'name': '🇺🇸US-38.91.107.66-2072', 'server': '38.91.107.66', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇺🇸US-38.75.136.34-2073', 'server': '38.75.136.34', 'port': 9102, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+  - {'name': '🇺🇸US-167.88.62.68-2074', 'server': '167.88.62.68', 'port': 8090, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-167.88.63.59-2075', 'server': '167.88.63.59', 'port': 8882, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
+  - {'name': '🇺🇸US-38.75.136.21-2076', 'server': '38.75.136.21', 'port': 9101, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+  - {'name': '🇺🇸US-167.88.63.59-2077', 'server': '167.88.63.59', 'port': 5500, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.114.114.67-2078', 'server': '38.114.114.67', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇺🇸US-167.88.61.175-2079', 'server': '167.88.61.175', 'port': 7001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
+  - {'name': '🇺🇸US-38.143.66.55-2080', 'server': '38.143.66.55', 'port': 5601, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.64.138.145-2081', 'server': '38.64.138.145', 'port': 9101, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
